@@ -29,6 +29,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 -   [ ] NodeJS
 -   [ ] Express
 -   [ ] Jest
+-   [ ] Prisma
 
 
 ## Executando o projeto
